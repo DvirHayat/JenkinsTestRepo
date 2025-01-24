@@ -1,3 +1,3 @@
 # main.py
-def add1(a)
+def add1(a):
     return a + 1
